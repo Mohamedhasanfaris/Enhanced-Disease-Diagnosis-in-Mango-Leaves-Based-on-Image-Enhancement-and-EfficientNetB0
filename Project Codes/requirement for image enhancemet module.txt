@@ -1,0 +1,8 @@
+numpy
+tqdm
+PIL
+matplotlib
+tensorflow
+scikit-learn
+seaborn
+efficientnet
