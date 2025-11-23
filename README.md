@@ -65,7 +65,7 @@ This project aims to develop a deep learning-based system for detecting and diag
 ![Screenshot 1](https://github.com/user-attachments/assets/ee6ca28d-b1af-4846-90e3-9d6121352a46)
 
 
----
+--- 
 
 ## 🖼️ Live Demo
 
